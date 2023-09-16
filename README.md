@@ -36,7 +36,7 @@
 * A simple and short adventure game.
 * Easy to modify.
 * Cross-Platform
-  - Windows, macOS and Linux.
+  - Windows, MacOS and Linux.
 
 ## Requirements
 * g++

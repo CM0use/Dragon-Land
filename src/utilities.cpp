@@ -1,6 +1,7 @@
 /**
- ** This file is part of https://github.com/CM0use/Dragon-Land
- ** Copyright 2023 CM0use <dilanuzcs@gmail.com>.
+ ** This file is part of Dragon-Land project
+ ** Copyright 2023 CM0use dilanuzcs@gmail.com
+ ** URL: https://github.com/CM0use/Dragon-Land
  **
  ** This program is free software: you can redistribute it and/or modify
  ** it under the terms of the GNU General Public License as published by

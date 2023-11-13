@@ -4,19 +4,17 @@
 *** here is the link:
 *** https://github.com/CM0use/README-TEMPLATE
 -->
+<h1 align="center">Dragon Land</h1>
 
-<h1 align="center">
-  <br>Dragon Land<br>
-  <a href="https://shields.io/"><img src="https://img.shields.io/badge/Windows-0078d7?style=for-the-badge&logo=windows&logoColor=ffffff" alt="Windows"></a>
-  <a href="https://shields.io/"><img src="https://img.shields.io/badge/mac%20OS-313131?style=for-the-badge&logo=macos&logoColor=d7d7d7" alt="MacOS"></a>
-  <a href="https://shields.io/"><img src="https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=000000" alt="Linux"></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-0078d7?style=for-the-badge&logo=windows&logoColor=ffffff" alt="Windows">
+  <img src="https://img.shields.io/badge/mac%20OS-313131?style=for-the-badge&logo=macos&logoColor=d7d7d7" alt="macOS">
+  <img src="https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=000000" alt="Linux">
   <br>
-  <a href="https://github.com/CM0use/Dragon-Land/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-GPLv3-4a6484?style=for-the-badge" alt="License GPLv3">
-  </a>
-</h1>
+  <a href="https://github.com/CM0use/Dragon-Land/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-GPLv3-4a6484?style=for-the-badge"></a>
+</p>
 
-<h4 align="center">You are in a land of dragons, if you are lucky the dragon will share his treasure with you, or else...</h4>
+<p align="center"><i>You are in a land of dragons, if you are lucky the dragon will share his treasure with you, or else...</i></h4>
 
 <p align="center">
   <a href="#features">Features</a> •
@@ -29,14 +27,13 @@
 <div align="center">
 
 ![20220412_064016](https://user-images.githubusercontent.com/102839710/163679549-e8d17909-bd69-4a3e-abed-6de75846fa31.gif)
-
 </div>
 
 ## Features
 * A simple and short adventure game.
 * Easy to modify.
 * Cross-Platform
-  - Windows, MacOS and Linux.
+  - Windows, macOS and Linux.
 
 ## Requirements
 * g++
@@ -47,27 +44,19 @@ To **clone** and **compile** this game, you will need to have **git** and **g++*
 From your command line:
 
 ```bash
-
 git clone https://github.com/CM0use/Dragon-Land.git
 cd Dragon-Land
 g++ -O2 -std=c++2a src/main.cpp src/utilities.cpp -o dragonLand
-
 ```
 
-Run on **MacOS & Linux**:
-
+Run on **macOS & Linux**:
 ```bash
-
 ./dragonLand
-
 ```
 
 Run on **Windows**:
-
 ```cmd
-
 dragonLand.exe
-
 ```
 
 ## Contributing

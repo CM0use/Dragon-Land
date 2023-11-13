@@ -14,7 +14,7 @@
   <a href="https://github.com/CM0use/Dragon-Land/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-GPLv3-4a6484?style=for-the-badge"></a>
 </p>
 
-<p align="center"><i>You are in a land of dragons, if you are lucky the dragon will share his treasure with you, or else...</i></h4>
+<p align="center"><i>You are in a land of dragons, if you are lucky the dragon will share his treasure with you, or else...</i></p>
 
 <p align="center">
   <a href="#features">Features</a> •
